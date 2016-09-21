@@ -1,0 +1,1037 @@
+/* Chat von gestern Nacht CSS THEMES File */
+
+@font-face {
+    font-family: 'sfns_displayregular';
+    src: url('../fonts/sfns-webfont.woff2') format('woff2'),
+         url('../fonts/sfns-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ios iMessage */
+
+.chat-ios-imessage {
+  background: #fff;
+  font-family: 'sfns_displayregular';
+  -webkit-font-smoothing: antialiased;
+  font-variant-ligatures: no-common-ligatures;
+  font-size:16px;
+  height:730px;
+}
+
+.chat-ios-imessage .chat-header {
+  background: rgb(236,236,238);
+  background: -moz-radial-gradient(center, ellipse cover,  rgba(236,236,238,1) 0%, rgba(248,248,248,1) 100%);
+  background: -webkit-radial-gradient(center, ellipse cover,  rgba(236,236,238,1) 0%,rgba(248,248,248,1) 100%);
+  background: radial-gradient(ellipse at center,  rgba(236,236,238,1) 0%,rgba(248,248,248,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececee', endColorstr='#f8f8f8',GradientType=1 );
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  line-height: 1.3;
+}
+
+.chat-ios-imessage .chat-header-app-titlebar {
+  color: #1b87fb;
+  height: 50px;
+  overflow:hidden;
+  padding:12px 10px;
+  position:relative;
+}
+
+.chat-ios-imessage .chat-header-app-titlebar-back {
+  float:left;
+  font-size:20px;
+  padding-left: 22px;
+  position:relative;
+}
+
+.chat-ios-imessage .chat-header-app-titlebar-back:after {
+  background: url(../img/meta/ios-imessage/arrow-left.png) no-repeat left center;
+  background-size:contain;
+  content:'';
+  height:100%;
+  left:0;
+  position:absolute;
+  top:-1px;
+  width:20px;
+}
+
+.chat-ios-imessage .chat-header-app-titlebar-more {
+  float:right;
+  font-size:20px;
+}
+
+.chat-ios-imessage.chat-brand-cvgn .chat-header .chat-header-brand {
+  background: url(../img/meta/brands/cvgn-logo-long.png) no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 37px;
+  left:0;
+  margin:auto;
+  position: absolute;
+  right:0;
+  top:0;
+  width:200px;
+}
+
+.chat-ios-imessage article {
+  padding: 15px 20px;
+  position:relative;
+}
+
+.chat-ios-imessage article:before {
+  content: '';
+  height:100%;
+  width:100%;
+  left:0;
+  top:0;
+  background: -moz-linear-gradient(top,  rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 75%, rgba(255,255,255,0) 100%);
+  background: -webkit-linear-gradient(top,  rgba(255,255,255,0.3) 0%,rgba(255,255,255,0) 75%,rgba(255,255,255,0) 100%);
+  background: linear-gradient(to bottom,  rgba(255,255,255,0.3) 0%,rgba(255,255,255,0) 75%,rgba(255,255,255,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dffffff', endColorstr='#00ffffff',GradientType=0 );
+  z-index: 1;
+  pointer-events: none;
+  position:absolute;
+}
+
+.chat-ios-imessage .message-container {
+  position:relative;
+  width:100%;
+}
+
+.chat-ios-imessage .message-container:after {
+  content: '';
+  clear: both;
+  position: relative; 
+  height: 1px; 
+  width: 100%; 
+  display: block;
+}
+
+.chat-ios-imessage .message-container .message {
+  border-radius: 20px;
+  margin-bottom:1px;
+  max-width:75%;
+  padding: 8px 12px;
+}
+
+.chat-ios-imessage .message-container.message-left .message  {
+  float:left;
+}
+
+.chat-ios-imessage .message-container.message-right .message {
+  float:right;
+}
+
+.chat-ios-imessage .message-left .message {
+  background: #E5E5EA;
+  color:#000;
+  position:relative;
+  z-index:1;
+}
+
+.chat-ios-imessage .message-right .message {
+  background: #289DFC;
+  color:#fff;
+  position:relative;
+}
+
+.chat-ios-imessage .message-right.message-gsm .message {
+  background: #6FB342;
+}
+
+.chat-ios-imessage .message-container.message-left + .message-right, .chat-ios-imessage .message-container.message-right + .message-left {
+  margin-top: 7px;
+}
+
+.chat-ios-imessage .message-container.message-left + .message-right:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-grey.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:24px;
+  left:-5px;
+  position:absolute;
+  top:-32px;
+  width:24px;
+}
+
+.chat-ios-imessage .message-container.message-right + .message-left:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-blue.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-5px;
+  top:-32px;
+  width:24px;
+}
+
+.chat-ios-imessage .message-container.message-right.message-gsm + .message-left:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-darkgreen.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-5px;
+  top:-32px;
+  width:24px;
+}
+
+.chat-ios-imessage .message-container.message-right.message-marked-as-read + .message-left:before, .chat-ios-imessage .message-container.message-right.message-gsm.message-marked-as-read + .message-left:before, .chat-ios-imessage .message-container.message-right.message-marked-as-sent + .message-left:before, .chat-ios-imessage .message-container.message-right.message-gsm.message-marked-as-sent + .message-left:before {
+  top:-46px;
+}
+
+.chat-ios-imessage .message-container.message-left:last-child .message:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-grey.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content:'';
+  height:24px;
+  left:-5px;
+  position:absolute;
+  width:24px;
+}
+
+.chat-ios-imessage .message-container.message-right:last-child .message:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-blue.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-5px;
+  width:24px;
+}
+
+.chat-ios-imessage .message-container.message-right.message-gsm:last-child .message:before {
+  background:url(../img/meta/ios-imessage/imessage-bubble-arrow-darkgreen.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-5px;
+  width:24px;
+}
+
+.chat-ios-imessage .message-meta {
+  clear: both;
+  color: #9d9d9f;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+ 
+ .chat-ios-imessage .message-right .message-meta {
+  text-align:right;
+ }
+
+.chat-ios-imessage .message-meta .time, .chat-ios-imessage .message-not-marked .message-meta .message-state {
+  display: none;
+}
+
+.chat-ios-imessage .message-meta .message-state {
+  bottom: -20px;
+  position:absolute;
+  right:0;
+}
+
+.chat-ios-imessage .message-right.message-marked-as-read, .chat-ios-imessage .message-right.message-marked-as-sent {
+  margin-bottom: 20px;
+}
+
+.chat-ios-imessage footer {
+  background:url(../img/meta/ios-imessage/imessage-input-bar.png) center no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 60px;
+  position:absolute;
+  width:100%;
+}
+
+.chat-ios-imessage span.emoji {
+  margin-top: -3px;
+}
+
+.chat-ios-imessage.chat-lang-de .chat-header-app-titlebar-back:before {
+  content: 'Nachrichten';
+}
+
+.chat-ios-imessage.chat-lang-de .chat-header-app-titlebar-more:before {
+  content: 'Details';
+}
+
+.chat-ios-imessage.chat-lang-de .message-right.message-marked-as-read .message-state:before {
+  content: 'Gelesen';
+}
+
+.chat-ios-imessage.chat-lang-de .message-right.message-marked-as-sent .message-state:before {
+  content: 'Zugestellt';
+}
+
+.chat-ios-imessage.chat-lang-en .chat-header-app-titlebar-back:before {
+  content: 'Messages';
+}
+
+.chat-ios-imessage.chat-lang-en .chat-header-app-titlebar-more:before {
+  content: 'Details';
+}
+
+.chat-ios-imessage.chat-lang-en .message-right.message-marked-as-read .message-state:before {
+  content: 'Read';
+}
+
+.chat-ios-imessage.chat-lang-en .message-right.message-marked-as-sent .message-state:before {
+  content: 'Delivered';
+}
+
+.chat-ios-imessage.chat-lang-pt .chat-header-app-titlebar-back:before {
+  content: 'Mensagens';
+}
+
+.chat-ios-imessage.chat-lang-pt .chat-header-app-titlebar-more:before {
+  content: 'Contato';
+}
+
+.chat-ios-imessage.chat-lang-pt .message-right.message-marked-as-read .message-state:before {
+  content: 'Lida';
+}
+
+.chat-ios-imessage.chat-lang-pt .message-right.message-marked-as-sent .message-state:before {
+  content: 'Entregue';
+}
+
+.chat-ios-imessage.chat-lang-es .chat-header-app-titlebar-back:before {
+  content: 'Mensajes';
+}
+
+.chat-ios-imessage.chat-lang-es .chat-header-app-titlebar-more:before {
+  content: 'Detalles';
+}
+
+.chat-ios-imessage.chat-lang-es .message-right.message-marked-as-read .message-state:before {
+  content: 'Leído';
+}
+
+.chat-ios-imessage.chat-lang-es .message-right.message-marked-as-sent .message-state:before {
+  content: 'Recibido';
+}
+
+.chat-ios-imessage.chat-lang-fr .chat-header-app-titlebar-back:before {
+  content: 'Messages';
+}
+
+.chat-ios-imessage.chat-lang-fr .chat-header-app-titlebar-more:before {
+  content: 'Contact';
+}
+
+.chat-ios-imessage.chat-lang-fr .message-right.message-marked-as-read .message-state:before {
+  content: 'Lu';
+}
+
+.chat-ios-imessage.chat-lang-fr .message-right.message-marked-as-sent .message-state:before {
+  content: 'Distribué';
+}
+
+.chat-ios-imessage.chat-lang-tk .chat-header-app-titlebar-back:before {
+  content: 'Mesajlar';
+}
+
+.chat-ios-imessage.chat-lang-tk .chat-header-app-titlebar-more:before {
+  content: 'Ayrıntılar';
+}
+
+.chat-ios-imessage.chat-lang-tk .message-right.message-marked-as-read .message-state:before {
+  content: 'Okundu';
+}
+
+.chat-ios-imessage.chat-lang-tk .message-right.message-marked-as-sent .message-state:before {
+  content: 'Gönderildi';
+}
+
+
+
+
+
+
+
+
+
+/* ios WhatsApp */
+
+.chat-ios-whatsapp {
+  background-position:center center;
+  background-size:cover;
+  font-family: 'sfns_displayregular';
+  -webkit-font-smoothing: antialiased;
+  font-variant-ligatures: no-common-ligatures;
+  font-size:16px;
+  height:730px;
+}
+
+.chat-ios-whatsapp.chat-bg-1 {
+  background: url(../img/meta/whatsapp-bg/whatsapp1.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-2 {
+  background: url(../img/meta/whatsapp-bg/whatsapp2.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-3 {
+  background: url(../img/meta/whatsapp-bg/whatsapp3.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-4 {
+  background: url(../img/meta/whatsapp-bg/whatsapp4.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-5 {
+  background: url(../img/meta/whatsapp-bg/whatsapp5.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-6 {
+  background: url(../img/meta/whatsapp-bg/whatsapp6.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-7 {
+  background: url(../img/meta/whatsapp-bg/whatsapp7.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-8 {
+  background: url(../img/meta/whatsapp-bg/whatsapp8.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-9 {
+  background: url(../img/meta/whatsapp-bg/whatsapp9.jpg) no-repeat;
+}
+.chat-ios-whatsapp.chat-bg-10 {
+  background: url(../img/meta/whatsapp-bg/whatsapp10.jpg) no-repeat;
+}
+
+.chat-ios-whatsapp .chat-header {
+  background: rgb(236,236,238);
+  background: -moz-radial-gradient(center, ellipse cover,  rgba(236,236,238,1) 0%, rgba(248,248,248,1) 100%);
+  background: -webkit-radial-gradient(center, ellipse cover,  rgba(236,236,238,1) 0%,rgba(248,248,248,1) 100%);
+  background: radial-gradient(ellipse at center,  rgba(236,236,238,1) 0%,rgba(248,248,248,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececee', endColorstr='#f8f8f8',GradientType=1 );
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  line-height: 1.3;
+}
+
+.chat-ios-whatsapp .chat-header-app-titlebar {
+  color: #1b87fb;
+  height: 50px;
+  overflow:hidden;
+  padding:12px 10px;
+  position:relative;
+}
+
+.chat-ios-whatsapp .chat-header-app-titlebar-back {
+  float:left;
+  font-size:20px;
+  padding-left: 22px;
+  position:relative;
+}
+
+.chat-ios-whatsapp .chat-header-app-titlebar-back:after {
+  background: url(../img/meta/ios-imessage/arrow-left.png) no-repeat left center;
+  background-size:contain;
+  content:'';
+  height:100%;
+  left:0;
+  position:absolute;
+  top:-1px;
+  width:20px;
+}
+
+.chat-ios-whatsapp .chat-header-app-titlebar-more {
+  background:#fff;
+  border-radius: 100px;
+  height: 40px;
+  position:absolute;
+  right: 20px;
+  top:5px;
+  width:40px;
+}
+
+.chat-ios-whatsapp .chat-header-app-titlebar-more-1 {
+  background: url(../img/meta/avatars/avatar1.png) no-repeat center;
+  background-size:cover;
+}
+
+.chat-ios-whatsapp.chat-brand-cvgn .chat-header .chat-header-brand {
+  background: url(../img/meta/brands/cvgn-logo-long.png) no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 37px;
+  left:0;
+  margin:auto;
+  position: absolute;
+  right:0;
+  top:0;
+  width:200px;
+}
+
+.chat-ios-whatsapp article {
+  padding: 15px 20px;
+  position:relative;
+}
+
+.chat-ios-whatsapp .message-container {
+  position:relative;
+  width:100%;
+}
+
+.chat-ios-whatsapp .message-container:after {
+  content: '';
+  clear: both;
+  position: relative; 
+  height: 1px; 
+  width: 100%; 
+  display: block;
+}
+
+.chat-ios-whatsapp .message-container .message {
+  border-radius: 8px;
+  -webkit-box-shadow: 0 2px 1px 0 rgba(0,0,0,.07);
+  box-shadow: 0 2px 1px 0 rgba(0,0,0,.07);
+  margin-bottom:2px;
+  max-width:75%;
+  padding: 7px 11px 17px;
+}
+
+.chat-ios-whatsapp .message-container.message-left .message  {
+  float:left;
+}
+
+.chat-ios-whatsapp .message-container.message-right .message {
+  float:right;
+}
+
+.chat-ios-whatsapp .message-left .message {
+  background: #fff;
+  color:#262626;
+  position:relative;
+}
+
+.chat-ios-whatsapp .message-right .message {
+  background: #dcf8c6;
+  color:#262626;
+  position:relative;
+}
+
+.chat-ios-whatsapp .message-container.message-left + .message-right, .chat-ios-whatsapp .message-container.message-right + .message-left {
+  margin-top: 11px;
+}
+
+.chat-ios-whatsapp .message-container.message-left + .message-right:before {
+  background:url(../img/meta/ios-whatsapp/whatsapp-bubble-left.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:24px;
+  left:-12px;
+  position:absolute;
+  top:-37px;
+  width:24px;
+}
+
+.chat-ios-whatsapp .message-container.message-right + .message-left:before {
+  background:url(../img/meta/ios-whatsapp/whatsapp-bubble-right.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-23px;
+  top:-38px;
+  width:24px;
+}
+
+.chat-ios-whatsapp .message-container.message-left:last-child .message:before {
+  background:url(../img/meta/ios-whatsapp/whatsapp-bubble-left.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content:'';
+  height:24px;
+  left:-12px;
+  position:absolute;
+  width:24px;
+}
+
+.chat-ios-whatsapp .message-container.message-right:last-child .message:before {
+  background:url(../img/meta/ios-whatsapp/whatsapp-bubble-right.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content:'';
+  height:24px;
+  position:absolute;
+  right:-23px;
+  width:24px;
+}
+
+.chat-ios-whatsapp .message-meta {
+  color: #aaa;
+  font-size: 13px;
+}
+ 
+.chat-ios-whatsapp .message-left .message-meta .time {
+  position:absolute;
+  right:7px;
+  bottom:0;
+}
+
+.chat-ios-whatsapp .message-meta .time {
+  position:absolute;
+  right:28px;
+  bottom:0;
+  z-index:1;
+}
+
+.chat-ios-whatsapp .message-meta .message-state {
+  bottom:6px;
+  height:17px;
+  position:absolute;
+  right:7px;
+  width:100%;
+}
+
+.chat-ios-whatsapp .message-right.message-not-marked .message-meta .time  {
+  right:23px;
+}
+
+.chat-ios-whatsapp .message-right.message-marked-as-read .message-state:before {
+  background:url(../img/meta/ios-whatsapp/whatapp-read.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:0px;
+  width: 17px;
+}
+
+.chat-ios-whatsapp .message-right.message-marked-as-sent .message-state:before {
+  background:url(../img/meta/ios-whatsapp/whatapp-sent.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:0px;
+  width: 17px;
+}
+
+.chat-ios-whatsapp .message-right.message-not-marked .message-state:before {
+  background:url(../img/meta/ios-whatsapp/whatapp-notmarked.png) no-repeat;
+  background-size:contain;
+  bottom:0;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:-5px;
+  width: 17px;
+}
+
+.chat-ios-whatsapp .message.editable svg.smiley-trigger {
+  bottom: 3px;
+}
+
+.chat-ios-whatsapp footer {
+  background:url(../img/meta/ios-whatsapp/ios-whatsapp-input-bar.png) bottom no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 48px;
+  position:absolute;
+  width:100%;
+}
+
+.chat-ios-whatsapp span.emoji {
+  margin-top: -3px;
+}
+
+.chat-ios-whatsapp .message-right svg.smiley-trigger {
+    fill: #000;
+}
+
+.chat-ios-whatsapp.chat-lang-de .chat-header-app-titlebar-back:before {
+  content: 'Nachrichten';
+}
+
+.chat-ios-whatsapp.chat-lang-en .chat-header-app-titlebar-back:before {
+  content: 'Messages';
+}
+
+.chat-ios-whatsapp.chat-lang-pt .chat-header-app-titlebar-back:before {
+  content: 'Mensagens';
+}
+
+.chat-ios-whatsapp.chat-lang-es .chat-header-app-titlebar-back:before {
+  content: 'Mensajes';
+}
+
+.chat-ios-whatsapp.chat-lang-fr .chat-header-app-titlebar-back:before {
+  content: 'Messages';
+}
+
+.chat-ios-whatsapp.chat-lang-tk .chat-header-app-titlebar-back:before {
+  content: 'Mesajlar';
+}
+
+
+
+
+
+
+
+/* Android WhatsApp */
+
+.chat-android-whatsapp {
+  background-position:center center;
+  background-size:cover;
+  font-family: 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  font-variant-ligatures: no-common-ligatures;
+  font-size:16px;
+  height:730px;
+}
+
+.chat-android-whatsapp.chat-bg-1 {
+  background: url(../img/meta/whatsapp-bg/whatsapp1.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-2 {
+  background: url(../img/meta/whatsapp-bg/whatsapp2.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-3 {
+  background: url(../img/meta/whatsapp-bg/whatsapp3.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-4 {
+  background: url(../img/meta/whatsapp-bg/whatsapp4.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-5 {
+  background: url(../img/meta/whatsapp-bg/whatsapp5.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-6 {
+  background: url(../img/meta/whatsapp-bg/whatsapp6.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-7 {
+  background: url(../img/meta/whatsapp-bg/whatsapp7.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-8 {
+  background: url(../img/meta/whatsapp-bg/whatsapp8.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-9 {
+  background: url(../img/meta/whatsapp-bg/whatsapp9.jpg) no-repeat;
+}
+.chat-android-whatsapp.chat-bg-10 {
+  background: url(../img/meta/whatsapp-bg/whatsapp10.jpg) no-repeat;
+}
+
+.chat-android-whatsapp .chat-header {
+}
+
+.chat-android-whatsapp .chat-header-app-titlebar {
+  background: url(../img/meta/android-whatsapp/android-whatsapp-app-titlebar.png) no-repeat center;
+  background-size:100%;
+  color: #1b87fb;
+  height: 63px;
+  overflow:hidden;
+  padding:12px 10px;
+  position:relative;
+}
+
+.chat-android-whatsapp .chat-header-app-titlebar-more {
+  background:#fff;
+  border-radius: 100px;
+  height: 40px;
+  left: 35px;
+  position:absolute;
+  top:12px;
+  width:40px;
+}
+
+.chat-android-whatsapp .chat-header-app-titlebar-more-1 {
+  background: url(../img/meta/avatars/avatar1.png) no-repeat center;
+  background-size:cover;
+}
+
+.chat-android-whatsapp.chat-brand-cvgn .chat-header .chat-header-brand {
+  background: url(../img/meta/brands/cvgn-logo-long.png) no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 37px;
+  left:-15%;
+  margin:auto;
+  position: absolute;
+  right:0;
+  top:0;
+  width:200px;
+}
+
+.chat-android-whatsapp article {
+  padding: 15px 20px;
+  position:relative;
+}
+
+.chat-android-whatsapp .message-container {
+  position:relative;
+  width:100%;
+}
+
+.chat-android-whatsapp .message-container:after {
+  content: '';
+  clear: both;
+  position: relative; 
+  height: 1px; 
+  width: 100%; 
+  display: block;
+}
+
+.chat-android-whatsapp .message-container .message {
+  border-radius: 8px;
+  -webkit-box-shadow: 0 2px 1px 0 rgba(0,0,0,.07);
+  box-shadow: 0 2px 1px 0 rgba(0,0,0,.07);
+  margin-bottom:2px;
+  max-width:75%;
+  padding: 7px 11px 17px;
+}
+
+.chat-android-whatsapp .message-container.message-left .message  {
+  float:left;
+}
+
+.chat-android-whatsapp .message-container.message-right .message {
+  float:right;
+}
+
+.chat-android-whatsapp .message-left .message {
+  background: #fff;
+  color:#262626;
+  position:relative;
+}
+
+.chat-android-whatsapp .message-right .message {
+  background: #e0ffc6;
+  color:#262626;
+  position:relative;
+}
+
+.chat-android-whatsapp .message-container.message-left + .message-right, .chat-android-whatsapp .message-container.message-right + .message-left {
+  margin-top: 11px;
+}
+
+.chat-android-whatsapp .message-container.message-left + .message-right:before, .chat-android-whatsapp .message-container.message-right:first-child .message:before {
+  background:url(../img/meta/android-whatsapp/whatsapp-bubble-right.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:16px;
+  position:absolute;
+  right:-9px;
+  top:0;
+  width:16px;
+}
+
+.chat-android-whatsapp .message-container.message-right + .message-left:before, .chat-android-whatsapp .message-container.message-left:first-child .message:before {
+  background:url(../img/meta/android-whatsapp/whatsapp-bubble-left.png) no-repeat;
+  background-size:contain;
+  content:'';
+  height:16px;
+  left:-9px;
+  position:absolute;
+  top:0;
+  width:16px;
+}
+
+.chat-android-whatsapp .message-meta {
+  color: #aaa;
+  font-size: 13px;
+}
+ 
+.chat-android-whatsapp .message-left .message-meta .time {
+  position:absolute;
+  right:7px;
+  bottom:0;
+}
+
+.chat-android-whatsapp .message-meta .time {
+  position:absolute;
+  right:28px;
+  bottom:0;
+  z-index:1;
+}
+
+.chat-android-whatsapp .message-meta .message-state {
+  bottom:6px;
+  height:17px;
+  position:absolute;
+  right:7px;
+  width:100%;
+}
+
+.chat-android-whatsapp .message-right.message-not-marked .message-meta .time  {
+  right:23px;
+}
+
+.chat-android-whatsapp .message-right.message-marked-as-read .message-state:before {
+  background:url(../img/meta/android-whatsapp/whatapp-read.png) no-repeat;
+  background-size:contain;
+  bottom:-1px;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:0px;
+  width: 17px;
+}
+
+.chat-android-whatsapp .message-right.message-marked-as-sent .message-state:before {
+  background:url(../img/meta/android-whatsapp/whatapp-sent.png) no-repeat;
+  background-size:contain;
+  bottom:-1px;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:0px;
+  width: 17px;
+}
+
+.chat-android-whatsapp .message-right.message-not-marked .message-state:before {
+  background:url(../img/meta/android-whatsapp/whatapp-notmarked.png) no-repeat;
+  background-size:contain;
+  bottom:-1px;
+  content: '';
+  height:10px;
+  position:absolute;
+  right:-5px;
+  width: 17px;
+}
+
+.chat-android-whatsapp .message.editable svg.smiley-trigger {
+  bottom: 3px;
+}
+
+.chat-android-whatsapp footer {
+  background:url(../img/meta/android-whatsapp/android-whatsapp-input-bar.png) center no-repeat;
+  background-size:100%;
+  bottom:0;
+  height: 72px;
+  position:absolute;
+  width:100%;
+}
+
+.chat-android-whatsapp span.emoji {
+  margin-top: -3px;
+}
+
+.chat-android-whatsapp .message-right svg.smiley-trigger {
+    fill: #000;
+}
+
+
+/* ### media queries ### */
+
+
+/* iPhone 4, 4s, 5, 5c, 5s, SE, and many older Phones */
+
+@media only screen and (min-width: 320px) {
+  .chat-container {
+    zoom: .75;
+  }
+}
+
+/* Blackberry Q10 (who has this?) */
+
+@media only screen and (min-width: 346px) {
+  .chat-container {
+    zoom: .81;
+  }
+}
+
+/* Galaxies, Xperias and many more common Phones */
+
+@media only screen and (min-width: 360px) {
+  .chat-container {
+    zoom: .84;
+  }
+}
+
+/* iPhone 6, 6s, 7 */
+
+@media only screen and (min-width: 375px) {
+  .chat-container {
+    zoom: .88;
+  }
+}
+
+/* Medium Blackberries and Nexus Phones */
+
+@media only screen and (min-width: 384px) {
+  .chat-container {
+    zoom: .90;
+  }
+}
+
+/* Large Blackberries */
+
+@media only screen and (min-width: 390px) {
+  .chat-container {
+    zoom: .915;
+  }
+}
+
+/* Galaxy Note */
+
+@media only screen and (min-width: 400px) {
+  .chat-container {
+    zoom: .94;
+  }
+}
+
+/* Large Nexus Phones */
+
+@media only screen and (min-width: 412px) {
+  .chat-container {
+    zoom: .97;
+  }
+}
+
+/* iPhone 6 Plus, 6s Plus, 7 Plus */
+
+@media only screen and (min-width: 414px) {
+  .chat-container {
+    zoom: .975;
+  }
+}
+
+/* Lumia 1520 and up */
+
+@media only screen and (min-width: 432px) {
+  .chat-container {
+    zoom: 1;
+  }
+}
+
+/* Fix Font Size on smaller devices */
+
+@media only screen and (max-width: 401px) {
+  .chat-container .chat-container-html {
+    font-size:15px;
+    line-height:1.3;
+  }
+  .chat-container .message-meta {
+    font-size:10px;
+  }
+  .chat-ios-imessage .message-meta {
+    letter-spacing: .2px;
+  }
+  .chat-ios-imessage .chat-header-app-titlebar-back, .chat-ios-imessage .chat-header-app-titlebar-more, .chat-ios-whatsapp .chat-header-app-titlebar-back {
+    font-size: 18px;
+    margin-top:1px;
+  }
+}
+
+@media only screen and (max-width: 374px) {
+  .chat-container .chat-container-html {
+    font-size:14px;
+    line-height:1.25;
+  }
+
+  .chat-ios-imessage .chat-header-app-titlebar-back, .chat-ios-imessage .chat-header-app-titlebar-more, .chat-ios-whatsapp .chat-header-app-titlebar-back {
+    font-size: 15px;
+    margin-top:2px;
+  }
+  .chat-ios-imessage .message-container .message, .chat-ios-whatsapp .message-container .message, .chat-android-whatsapp .message-container .message {
+    max-width:80%;
+  }
+  .chat-ios-whatsapp .message-container .message, .chat-android-whatsapp .message-container .message {
+    padding: 7px 11px 14px
+  }
+}
