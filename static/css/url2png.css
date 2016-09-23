@@ -29,3 +29,7 @@ display: none;
 .chat-container-image img {
   width:100%;
 }
+
+.read-more {
+  display: none;
+}
