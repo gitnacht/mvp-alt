@@ -33,3 +33,7 @@ display: none;
 .read-more {
   display: none;
 }
+
+.fixed-read-more {
+  display: none;
+}
