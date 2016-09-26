@@ -4,20 +4,161 @@
   <title>Chats Happens</title>
   <link>http://chathappens.com/</link>
   <description>Send us your craziest, funniest chats.</description>
+  <lastBuildDate>2016-09-26T12:40:00Z</lastBuildDate>
   <item>
     <title>The 7 best chats of today</title>
+    <author>Chat Happens</author>
+    <description>these chats are crazy</description>
+    <link>http://chathappens.com/en/lists/05/</link>
+    <guid>05</guid>
+    <pubDate>2016-09-26T11:00:00Z<pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+              </header>
+
+              <!— Article body goes here -->
+
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of today</title>
+    <author>Chat Happens</author>
+    <description>these chats are crazy</description>
+    <link>http://chathappens.com/en/lists/04/</link>
+    <guid>04</guid>
+    <pubDate>2016-09-25T11:00:00Z<pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+              </header>
+
+              <!— Article body goes here -->
+
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of today</title>
+    <author>Chat Happens</author>
+    <description>these chats are crazy</description>
     <link>http://chathappens.com/en/lists/03/</link>
-    <description>these chats are crazy</description>
+    <guid>03</guid>
+    <pubDate>2016-09-24T11:00:00Z<pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+              </header>
+
+              <!— Article body goes here -->
+
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
   </item>
   <item>
     <title>The 7 best chats of today</title>
+    <author>Chat Happens</author>
+    <description>these chats are crazy</description>
     <link>http://chathappens.com/en/lists/02/</link>
-    <description>these chats are crazy</description>
+    <guid>02</guid>
+    <pubDate>2016-09-23T11:00:00Z<pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+              </header>
+
+              <!— Article body goes here -->
+
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
   </item>
   <item>
     <title>The 7 best chats of today</title>
-    <link>http://chathappens.com/en/lists/01/</link>
+    <author>Chat Happens</author>
     <description>these chats are crazy</description>
+    <link>http://chathappens.com/en/lists/01/</link>
+    <guid>01</guid>
+    <pubDate>2016-09-22T11:00:00Z<pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+              </header>
+
+              <!— Article body goes here -->
+
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
   </item>
   </channel>
-</rss>  
+</rss>
