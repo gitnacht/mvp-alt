@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+  <title>Chats Happens</title>
+  <link>http://chathappens.com/</link>
+  <description>Send us your craziest, funniest chats.</description
+  <item>
+    <title>The 7 best chats of today</title>
+    <link>http://chathappens.com/en/lists/03/</link>
+    <description>these chats are crazy</description>
+  </item>
+  <item>
+    <title>The 7 best chats of today</title>
+    <link>http://chathappens.com/en/lists/02/</link>
+    <description>these chats are crazy</description>
+  </item>
+  <item>
+    <title>The 7 best chats of today</title>
+    <link>http://chathappens.com/en/lists/01/</link>
+    <description>these chats are crazy</description>
+  </item>
+  </channel>
