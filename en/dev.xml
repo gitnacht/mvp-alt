@@ -46,6 +46,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 </figure>
               </header>
               <!— Article body goes here -->
+              <p>Yes, it’s true. Instant Articles open on mobile devices really quickly.</p>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/57.jpg" />
               </figure>
