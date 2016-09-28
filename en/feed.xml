@@ -39,9 +39,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -58,6 +55,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/59.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/60.jpg" />
               </figure>
@@ -69,6 +69,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/63.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
@@ -111,9 +114,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -126,6 +126,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/52.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/53.jpg" />
               </figure>
@@ -137,6 +140,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/56.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
@@ -179,9 +185,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -194,6 +197,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/45.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/46.jpg" />
               </figure>
@@ -205,6 +211,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/49.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
@@ -247,9 +256,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -262,6 +268,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/38.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/39.jpg" />
               </figure>
@@ -273,6 +282,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/42.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
@@ -315,9 +327,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -330,6 +339,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/31.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/32.jpg" />
               </figure>
@@ -341,6 +353,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/35.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
@@ -383,9 +398,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <!-- title -->
                 <h1>The 7 best chats of today</h1>
 
-                <figure class="op-ad">
-                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
-                </figure>
               </header>
               <!— Article body goes here -->
               <p>Our new Instant Articles open on mobile devices really quickly.</p>
@@ -398,6 +410,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/24.jpg" />
               </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
+              </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/25.jpg" />
               </figure>
@@ -409,6 +424,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/28.jpg" />
+              </figure>
+              <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=170487586729801_170528110059082&adtype=banner300x250"></iframe>
               </figure>
               <footer>
                 <!— Article footer goes here -->
