@@ -5,11 +5,81 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <title>Chats Happens</title>
   <link>http://chathappens.com/</link>
   <description>Send us your craziest, funniest chats.</description>
-  <lastBuildDate>2016-09-28T12:40:00Z</lastBuildDate>
+  <lastBuildDate>2016-09-28T18:55:00Z</lastBuildDate>
   <item>
-    <title>The 7 best chats of today</title>
-    <author>Chat Happens</author>
-    <description>these chats are crazy</description>
+    <title>The 7 best chats of thursday</title>
+    <link>http://chathappens.com/en/lists/09/</link>
+    <guid>09</guid>
+    <pubDate>2016-09-27T18:40:00Z</pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/09/">
+            <meta property="op:markup_version" content="v1.0">
+            <title>The 7 best chats of thursday</title>
+            <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
+            <meta property="fb:use_automatic_ad_placement" content="true">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+                <figure>
+                  <img src="http://chathappens.com/en/lists/09/teaser.jpg" />
+                </figure>
+
+                <!-- kicker -->
+                <h3 class="op-kicker">
+                  These chats are crazy:
+                </h3>
+
+                <!-- title -->
+                <h1>The 7 best chats of today</h1>
+
+                <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
+                </figure>
+              </header>
+              <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/57.jpg" />
+              <figcaption class="op-extra-large">
+                <h1 class="op-small">Chat 57</h1>
+                  This description uses extra-large text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  </figcaption>
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/58.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/59.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/60.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/61.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/62.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/63.jpg" />
+              </figure>
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of wednesday</title>
     <link>http://chathappens.com/en/lists/08/</link>
     <guid>08</guid>
     <pubDate>2016-09-27T11:00:00Z</pubDate>
@@ -18,10 +88,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         <!doctype html>
         <head>
             <meta charset="utf-8">
-            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <link rel="canonical" href="http://chathappens.com/en/lists/08/">
             <meta property="op:markup_version" content="v1.0">
-            <title>The 7 best chats of today</title>
+            <title>The 7 best chats of wednesday</title>
             <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
             <meta property="fb:use_automatic_ad_placement" content="true">
           </head>
           <body>
@@ -45,6 +116,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 </figure>
               </header>
               <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/50.jpg" />
               </figure>
@@ -75,9 +147,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </content:encoded>
   </item>
   <item>
-    <title>The 7 best chats of today</title>
-    <author>Chat Happens</author>
-    <description>these chats are crazy</description>
+    <title>The 7 best chats of tuesday</title>
     <link>http://chathappens.com/en/lists/07/</link>
     <guid>07</guid>
     <pubDate>2016-09-27T11:00:00Z</pubDate>
@@ -86,10 +156,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         <!doctype html>
         <head>
             <meta charset="utf-8">
-            <link rel="canonical" href="http://chathappens.com/en/lists/03/">
+            <link rel="canonical" href="http://chathappens.com/en/lists/07/">
             <meta property="op:markup_version" content="v1.0">
-            <title>The 7 best chats of today</title>
+            <title>The 7 best chats of tuesday</title>
             <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
             <meta property="fb:use_automatic_ad_placement" content="true">
           </head>
           <body>
@@ -113,6 +184,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 </figure>
               </header>
               <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/43.jpg" />
               </figure>
@@ -133,6 +205,210 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               </figure>
               <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
               <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/49.jpg" />
+              </figure>
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of monday</title>
+    <link>http://chathappens.com/en/lists/06/</link>
+    <guid>06</guid>
+    <pubDate>2016-09-26T11:00:00Z</pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/06/">
+            <meta property="op:markup_version" content="v1.0">
+            <title>The 7 best chats of monday</title>
+            <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
+            <meta property="fb:use_automatic_ad_placement" content="true">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+                <figure>
+                  <img src="http://chathappens.com/en/lists/06/teaser.jpg" />
+                </figure>
+
+                <!-- kicker -->
+                <h3 class="op-kicker">
+                  These chats are crazy:
+                </h3>
+
+                <!-- title -->
+                <h1>The 7 best chats of today</h1>
+
+                <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
+                </figure>
+              </header>
+              <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/36.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/37.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/38.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/39.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/40.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/41.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/42.jpg" />
+              </figure>
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of sunday</title>
+    <link>http://chathappens.com/en/lists/05/</link>
+    <guid>05</guid>
+    <pubDate>2016-09-25T11:00:00Z</pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/05/">
+            <meta property="op:markup_version" content="v1.0">
+            <title>The 7 best chats of sunday</title>
+            <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
+            <meta property="fb:use_automatic_ad_placement" content="true">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+                <figure>
+                  <img src="http://chathappens.com/en/lists/05/teaser.jpg" />
+                </figure>
+
+                <!-- kicker -->
+                <h3 class="op-kicker">
+                  These chats are crazy:
+                </h3>
+
+                <!-- title -->
+                <h1>The 7 best chats of today</h1>
+
+                <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
+                </figure>
+              </header>
+              <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/29.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/30.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/31.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/32.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/33.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/34.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/35.jpg" />
+              </figure>
+              <footer>
+                <!— Article footer goes here -->
+              </footer>
+            </article>
+          </body>
+         ]]>
+    </content:encoded>
+  </item>
+  <item>
+    <title>The 7 best chats of saturday</title>
+    <link>http://chathappens.com/en/lists/04/</link>
+    <guid>04</guid>
+    <pubDate>2016-09-25T11:00:00Z</pubDate>
+    <content:encoded>
+      <![CDATA[
+        <!doctype html>
+        <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="http://chathappens.com/en/lists/04/">
+            <meta property="op:markup_version" content="v1.0">
+            <title>The 7 best chats of saturday</title>
+            <meta property="fb:article_style" content="MVP">
+            <link rel="stylesheet" title="MVP" href="#">
+            <meta property="fb:use_automatic_ad_placement" content="true">
+          </head>
+          <body>
+            <article>
+              <header>
+                <!— Article header goes here -->
+                <figure>
+                  <img src="http://chathappens.com/en/lists/04/teaser.jpg" />
+                </figure>
+
+                <!-- kicker -->
+                <h3 class="op-kicker">
+                  These chats are crazy:
+                </h3>
+
+                <!-- title -->
+                <h1>The 7 best chats of today</h1>
+
+                <figure class="op-ad">
+                <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=PLACEMENT_ID&adtype=banner300x250"></iframe>
+                </figure>
+              </header>
+              <!— Article body goes here -->
+              <p>Our new Instant Articles open on mobile devices really quickly.</p>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/22.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/23.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/24.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/25.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/26.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/27.jpg" />
+              </figure>
+              <figure data-feedback="fb:likes, fb:comments" data-mode="non-interactive">
+              <img src="http://res.cloudinary.com/gutenacht/image/upload/v1474487956/en/screenshots/28.jpg" />
               </figure>
               <footer>
                 <!— Article footer goes here -->
