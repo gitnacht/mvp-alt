@@ -21,7 +21,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of thursday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
@@ -96,7 +96,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of wednesday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
@@ -167,7 +167,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of tuesday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
@@ -238,7 +238,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of monday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
@@ -309,7 +309,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of sunday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
@@ -380,7 +380,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>The 7 best chats of saturday</title>
             <meta property="fb:article_style" content="MVP">
             <link rel="stylesheet" title="MVP" href="#">
-            <meta property="fb:use_automatic_ad_placement" content="true">
+            <meta property="fb:use_automatic_ad_placement" content="false">
           </head>
           <body>
             <article>
