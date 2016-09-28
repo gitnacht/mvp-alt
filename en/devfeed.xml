@@ -21,6 +21,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <link rel="canonical" href="http://chathappens.com/en/lists/03/">
             <meta property="op:markup_version" content="v1.0">
             <title>The 7 best chats of today</title>
+            <meta property="fb:article_style" content="MVP">
             <meta property="fb:use_automatic_ad_placement" content="true">
           </head>
           <body>
