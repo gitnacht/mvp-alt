@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/gitnacht/mvp.svg?branch=master)](https://travis-ci.org/gitnacht/mvp)
 This is the MVP of chathappens.com.
 
 
