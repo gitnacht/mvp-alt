@@ -1,4 +1,4 @@
-This is the MVP of chathappens.com
+This is the MVP of chathappens.com.
 
 
 # status quo cloudinary image uploads
