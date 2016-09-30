@@ -2,7 +2,7 @@
 set -x
 if [ $TRAVIS_BRANCH == 'master' ] ; then
     # Initialize a new git repo in _site, and push it to our server.
-    cd _site
+    cd site
     git init
 
     git remote add deploy "deploy@159.203.82.27:/www/"
