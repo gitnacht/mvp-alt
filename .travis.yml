@@ -1,0 +1,6 @@
+addons:
+  ssh_known_hosts: 159.203.82.27
+before_install:
+- bash scripts/install.sh
+script:
+- bash scripts/deploy.sh
